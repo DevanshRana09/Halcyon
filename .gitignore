@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+*.iws
+out/
+
+# Data Science / Jupyter
+.ipynb_checkpoints/
+*.csv
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
